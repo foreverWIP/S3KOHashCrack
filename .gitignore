@@ -1,0 +1,9 @@
+.vscode
+Data.rsdk
+bin/
+obj/
+*.txt
+
+!filenames.txt
+!objectnames.txt
+!varnames.txt
